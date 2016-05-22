@@ -22,3 +22,10 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# Idea
+.idea
+
+# Binary files
+main
+my_c_binding
